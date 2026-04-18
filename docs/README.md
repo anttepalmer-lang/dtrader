@@ -44,7 +44,7 @@ Edit **`brand.config.json`** at the repo root:
 
 ```json
 {
-  "brand_name": "Your Company",
+  "brand_name": "autonix",
   "brand_domain": "yourdomain.com",
   "brand_hostname": {
     "staging": "staging.trader.yourdomain.com",
